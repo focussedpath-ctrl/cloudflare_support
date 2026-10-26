@@ -1,6 +1,3 @@
-+++
-date = '2026-10-26T09:15:06Z'
-draft = true
 ---
 title: "Cloudflare-registered .uk domain stuck in Pending (ns_mismatch) — registrar not syncing assigned nameservers to the .uk registry"
 date: 2026-10-26
